@@ -547,7 +547,7 @@ gender: Neutral,
 ),
 (
 name: "Rathalos Braces S",
-skills: [(AttackBoost, 1)],
+skills: [(AttackBoost, 2)],
 slots: [2],
 rare: 6,
 defense: 62,
