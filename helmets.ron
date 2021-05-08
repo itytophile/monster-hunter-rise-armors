@@ -1546,4 +1546,17 @@ gender: Male,
     dragon: 0,
     gender: Neutral
 ),
+(
+	name: "Rathalos Helm S",
+	skills: [(AttackBoost, 1), (Partbreaker, 1)],
+	slots: [1, 1],
+	rare: 6,
+	defense: 62,
+	fire: 3,
+	water: 1,
+	thunder: -2,
+	ice: 1,
+	dragon: -3,
+	gender: Neutral
+)
 ]
