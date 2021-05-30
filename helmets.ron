@@ -1558,5 +1558,18 @@ gender: Male,
 	ice: 1,
 	dragon: -3,
 	gender: Neutral
+),
+(
+	name: "Valstrax Helm",
+	skills: [(Dragonheart, 1), (WeaknessExploit, 1)],
+	slots: [2, 1],
+	rare: 7,
+	defense: 80,
+	fire: -2,
+	water: -2,
+	thunder: -2,
+	ice: -2,
+	dragon: 3,
+	gender: Neutral
 )
 ]

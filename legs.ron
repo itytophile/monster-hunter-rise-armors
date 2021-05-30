@@ -1493,5 +1493,18 @@ gender: Male,
     ice: -2,
     dragon: -2,
     gender: Neutral
+),
+(
+	name: "Valstrax Greaves",
+	skills: [(Dragonheart, 1), (Resentment, 1)],
+	slots: [3, 1],
+	rare: 7,
+	defense: 80,
+	fire: -2,
+	water: -2,
+	thunder: -2,
+	ice: -2,
+	dragon: 3,
+	gender: Neutral
 )
 ]
